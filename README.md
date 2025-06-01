@@ -1,3 +1,3 @@
 # LLMS FROM SCRATCH
-The fisrt sentence, I want to thank you so much for Vizuara channel - a geat Youtube channel for everyone who want to leanrn about Machine learning, Deep learning
+First of all, I would like to sincerely thank the Vizuara channel — a great YouTube channel for anyone who wants to learn about Machine Learning and Deep Learning.
 
